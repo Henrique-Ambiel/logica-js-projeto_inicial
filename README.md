@@ -17,7 +17,7 @@ O projeto consiste em um jogo de adivinhação, onde o jogador tenta descobrir o
 - HTML: Estrutura do jogo.
 
 - CSS: Estilização da interface do jogo.
-- 
+  
 - JavaScript: Implementação da lógica do jogo e interatividade.
 
 📁 Estrutura do Repositório

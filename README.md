@@ -34,9 +34,9 @@ Faça o clone do repositório:
 
 - git clone https://github.com/Henrique-Ambiel/logica-js-projeto_inicial.git
   
-Abra o arquivo index.html em um navegador.
+- Abra o arquivo index.html em um navegador.
 
-Tente adivinhar o número secreto e divirta-se!
+- Tente adivinhar o número secreto e divirta-se!
 
 ## 🎯 Objetivo
 

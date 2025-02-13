@@ -19,7 +19,6 @@ O projeto consiste em um jogo de adivinhação, onde o jogador tenta descobrir o
 - CSS: Estilização da interface do jogo.
   
 - JavaScript: Implementação da lógica do jogo e interatividade.
-- 
 ## 🎯 Objetivo
 
 Este repositório foi criado para explorar os fundamentos da lógica de programação e suas aplicações práticas, utilizando JavaScript em um contexto divertido e interativo.

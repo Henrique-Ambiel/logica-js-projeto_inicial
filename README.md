@@ -19,25 +19,7 @@ O projeto consiste em um jogo de adivinhação, onde o jogador tenta descobrir o
 - CSS: Estilização da interface do jogo.
   
 - JavaScript: Implementação da lógica do jogo e interatividade.
-
-## 📁 Estrutura do Repositório
-
-- /index.html: Página principal do jogo.
-  
-- /styles.css: Arquivo de estilos aplicados à interface.
-  
-- /script.js: Código JavaScript que controla a lógica e as interações do jogo.
-  
-## 🚀 Como Utilizar
-
-Faça o clone do repositório:
-
-- git clone https://github.com/Henrique-Ambiel/logica-js-projeto_inicial.git
-  
-- Abra o arquivo index.html em um navegador.
-
-- Tente adivinhar o número secreto e divirta-se!
-
+- 
 ## 🎯 Objetivo
 
 Este repositório foi criado para explorar os fundamentos da lógica de programação e suas aplicações práticas, utilizando JavaScript em um contexto divertido e interativo.
